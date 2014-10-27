@@ -1,4 +1,4 @@
-Terraria_RUS
+Террария
 ============
 
-Project of translating Terraria into Russian
+Перевод на русский язык!
